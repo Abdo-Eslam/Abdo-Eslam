@@ -42,14 +42,13 @@ I love experimenting with new tools 💻 and applying them to real-world dataset
 
 <br>
 
+### 📊 GitHub Stats
 
-### 📊 Github Stats
-<a href='https://github.com/abdo-eladawy/github-stats-transparent'>
-![Transparent](https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=transparent)
-![Dark](https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=dark)
-![Tokyo Night](https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=tokyonight)
-
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=transparent" alt="Transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=dark" alt="Dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=tokyonight" alt="Tokyo Night" />
+</p>
 
 <br>
 
