@@ -41,13 +41,12 @@ I love experimenting with new tools 💻 and applying them to real-world dataset
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=transparent" alt="Transparent" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=dark" alt="Dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=tokyonight" alt="Tokyo Night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=transparent" alt="Transparent Theme" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=dark" alt="Dark Theme" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=tokyonight" alt="Tokyo Night Theme" />
 </p>
 
 <br>
