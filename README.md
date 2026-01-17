@@ -1,104 +1,64 @@
-# README for **Abdo Eladawy**
+## Hey 👋, I'm Abdo Eladawy!
+<a href='https://www.linkedin.com/in/abdo-eladawy/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/abdo-eladawy/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/abdo-eladawy/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-## 👋 Hey, I'm Abdo Eladawy!
-<a href='https://www.linkedin.com/in/abdo-eladawy/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/abdo-eladawy/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/abdo-eladawy/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/kaggle.svg" height='18px'/></a>
 
-I am an aspiring **Data Scientist** 📊 currently a student exploring **Machine Learning** 🤖, **AI** 🧠, and **Data Analytics**.  
-I enjoy experimenting with new tools 💻 and applying them to real-world datasets to build useful insights 🛠️.  
-<br/><br/>
+I am an aspiring **Data Scientist** 📊 and currently a student exploring **Machine Learning** 🤖, **AI** 🧠, and **Data Analytics**.  
+I love experimenting with new tools 💻 and applying them to real-world datasets to build useful insights 🛠️.  
+<br/>
+<br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
----
-
-## 🎯 Tagline
-**Aspiring Data Scientist • Student of AI & Analytics 📊🤖**
-
----
-
-## 🧐 About Me
-- I’m a student passionate about **Data Science** and **Machine Learning**.  
-- I love working with real datasets and turning them into meaningful insights.  
-- Currently building a strong foundation in **Python**, **data analysis**, and **ML modeling**.  
-- Always eager to learn new tools and apply them to small projects.  
-- Open to collaborations on beginner-level ML projects, Kaggle competitions, or simple data analysis tasks.  
-
----
-
-## 🔭 Current Work
-- **Now:** Practicing with small datasets and beginner ML models.  
-- **Focus:** Exploring Python libraries and visualization techniques.  
-- **Soon:** Publishing my first projects on GitHub.  
-
----
-
-## 🤝 Looking to Collaborate On
-- Beginner-friendly **Machine Learning projects**.  
-- **Data analysis and visualization** using Python.  
-- Small **AI experiments** or Kaggle competitions.  
-
----
-
-## 🛠️ Skills & Tech Stack
-- **Languages:** Python, SQL  
-- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Scikit‑Learn  
-- **ML/AI Tools:** TensorFlow, PyTorch (currently learning)  
-- **Visualization:** Matplotlib, Seaborn  
-- **Other Tools:** Git/GitHub, Jupyter Notebook  
-
----
-
-## 🌐 Social & Contact
-- **GitHub:** github.com/abdo-eladawy [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fabdo-eladawy")  
-- **LinkedIn:** [linkedin.com/in/abdo-eladawy](https://www.linkedin.com/in/abdo-eladawy)  
-- **Kaggle:** [kaggle.com/abdo-eladawy](https://www.kaggle.com/abdo-eladawy)  
-- **Twitter/X:** [twitter.com/abdo-eladawy](https://twitter.com/abdo-eladawy)  
-- **Email:** abdo@example.com  
-
----
-
-## 📂 Highlighted Projects *(placeholders for now)*
-- **Project One:** Simple ML experiment • Python, Scikit‑Learn • *Coming soon*  
-- **Project Two:** Data visualization practice • Python, Matplotlib • *Coming soon*  
-- **Project Three:** Kaggle notebook exploration • Python, Pandas • *Coming soon*  
-
----
-
-## 🌍 Languages & Location
-- **Languages:** Arabic (native), English (learning & studying)  
-- **Location:** Alexandria, Egypt • EET timezone (UTC+2)  
-
----
-
-## 🎨 Personal Touches
-- **Passion:** Artificial Intelligence and its applications  
-- **Reading:** Technology & AI books/articles  
-- **Hobby:** Chess ♟️  
-- **Podcast/Music:** Tech content about AI  
-- **Quote:** *“Learning never exhausts the mind” — Leonardo da Vinci*  
-
----
-
-## 📊 GitHub Stats *(placeholder until activity grows)*
-```markdown
-<a href='https://github.com/abdo-eladawy/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+### 🧐 More About Me:
 
-</a>
-```
+- 🔭 &nbsp; I’m currently working on small training projects in Data Science and ML  
+- 🤝 &nbsp; I’m looking to collaborate on beginner ML projects or Kaggle competitions  
+- 🌱 &nbsp; I’m currently learning Python libraries and ML frameworks  
+- 👨🏻‍💻 &nbsp; Soon my projects will be available on Github [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fabdo-eladawy%3Ftab%3Drepositories")  
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉  
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help  
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abdo-eladawy/)  
+- 📝 &nbsp; Resume link *(placeholder)*  
+- 📚 &nbsp; In free time I read about AI and technology  
 
----
+<br>
 
-## 🔨 Languages & Tools Icons
-```markdown
+### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br/>
+<br>
+
+
+### 📊 Github Stats
+<a href='https://github.com/abdo-eladawy/github-stats-transparent'>
+  
+`https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg`
+`https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg`
+
+</a>
+
+<br>
+
+### 🛠️ My Projects
+<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
+<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+
+---
