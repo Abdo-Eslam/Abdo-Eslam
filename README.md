@@ -45,9 +45,9 @@ I love experimenting with new tools 💻 and applying them to real-world dataset
 
 ### 📊 Github Stats
 <a href='https://github.com/abdo-eladawy/github-stats-transparent'>
-  
-`https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg`
-`https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg`
+![Transparent](https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=transparent)
+![Dark](https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=dark)
+![Tokyo Night](https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=tokyonight)
 
 </a>
 
