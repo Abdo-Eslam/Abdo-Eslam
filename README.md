@@ -20,6 +20,11 @@ I am a **Data Science Student** 📊. I love exploring data and extracting insig
 
 <br>
 
+
+</br>
+
+<br>
+
 ### 🔨 Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -31,11 +36,4 @@ I am a **Data Science Student** 📊. I love exploring data and extracting insig
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br><br>
-
-### 📊 Github Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Eslam&show_icons=true&theme=radical" alt="Stats Overview" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Eslam&layout=compact&theme=radical" alt="Top Languages" height="150px" />
-</div>
-
-<br>
+ 
