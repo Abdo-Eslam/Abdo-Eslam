@@ -35,7 +35,9 @@ I love working with **data, statistics, and visualization** 📈 — digging int
 <br/>
 <br/>
 
----
+<br>
+
+<br/>
 
 ## 🧐 More About Me
 
@@ -143,13 +145,3 @@ print(me.superpower)
 <br/><br/><br/><br/>
 
 ---
-
-<div align="center">
-
-### 🌊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdo-Eslam&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-### 💡 *"In God we trust; all others must bring data."* — W. Edwards Deming
-
-</div>
