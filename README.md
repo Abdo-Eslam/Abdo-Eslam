@@ -22,9 +22,9 @@
 
 <br/>
 
-<img align="right" alt="Data Analytics GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="Data Analytics GIF" src="https://raw.githubusercontent.com/Abdo-Eslam/Abdo-Eslam/main/techstack.gif" width="380px"/>
 
-## 👋 Hey, I'm Abdo Eslam!
+### 👋 Hey, I'm Abdo Eslam!
 
 > *"Turning raw data into meaningful stories, one insight at a time."* 📖
 
@@ -34,7 +34,6 @@ I love working with **data, statistics, and visualization** 📈 — digging int
 
 <br/>
 <br/>
-
 <br>
 
 <br/>
