@@ -1,0 +1,60 @@
+<svg width="400" height="68" viewBox="0 0 400 68" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1f35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#58A6FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1f6feb;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="68" rx="10" fill="url(#bgGrad)" />
+  <rect width="400" height="68" rx="10" fill="none" stroke="#58A6FF" stroke-width="0.8" stroke-opacity="0.4"/>
+
+  <!-- Icon background circle -->
+  <circle cx="34" cy="34" r="20" fill="url(#iconGrad)" opacity="0.15"/>
+  <circle cx="34" cy="34" r="20" fill="none" stroke="#58A6FF" stroke-width="1" stroke-opacity="0.6"/>
+
+  <!-- Chart / Analytics icon -->
+  <g transform="translate(22, 22)" filter="url(#glow)">
+    <!-- Bar chart bars -->
+    <rect x="1" y="14" width="5" height="9" rx="1" fill="#58A6FF"/>
+    <rect x="8" y="8" width="5" height="15" rx="1" fill="#58A6FF" opacity="0.8"/>
+    <rect x="15" y="3" width="5" height="20" rx="1" fill="#58A6FF" opacity="0.6"/>
+    <!-- Base line -->
+    <line x1="0" y1="23" x2="22" y2="23" stroke="#58A6FF" stroke-width="1.2" stroke-opacity="0.8"/>
+    <!-- Trend line -->
+    <polyline points="3,17 10,11 17,6" fill="none" stroke="#FF6B6B" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="17" cy="6" r="1.5" fill="#FF6B6B"/>
+  </g>
+
+  <!-- Python badge (small) -->
+  <rect x="58" y="10" width="52" height="18" rx="4" fill="#3572A5" opacity="0.3"/>
+  <rect x="58" y="10" width="52" height="18" rx="4" fill="none" stroke="#3572A5" stroke-width="0.8"/>
+  <text x="84" y="22" font-family="'Segoe UI', sans-serif" font-size="9" fill="#79b8ff" text-anchor="middle" font-weight="600">🐍 Python</text>
+
+  <!-- Pandas badge -->
+  <rect x="114" y="10" width="48" height="18" rx="4" fill="#150458" opacity="0.4"/>
+  <rect x="114" y="10" width="48" height="18" rx="4" fill="none" stroke="#e70488" stroke-width="0.8"/>
+  <text x="138" y="22" font-family="'Segoe UI', sans-serif" font-size="9" fill="#e70488" text-anchor="middle" font-weight="600">Pandas</text>
+
+  <!-- Project name -->
+  <text x="58" y="50" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">Customer</text>
+  <text x="136" y="50" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#58A6FF"> Shopping</text>
+  <text x="222" y="50" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3"> Behavior Analysis</text>
+
+  <!-- Decorative dots -->
+  <circle cx="380" cy="15" r="2" fill="#58A6FF" opacity="0.4"/>
+  <circle cx="388" cy="15" r="2" fill="#58A6FF" opacity="0.2"/>
+  <circle cx="380" cy="55" r="2" fill="#FF6B6B" opacity="0.3"/>
+</svg>
