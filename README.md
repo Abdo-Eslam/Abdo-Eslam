@@ -1,18 +1,18 @@
 <div align="center">
 
 ```
-██████╗  █████╗ ████████╗ █████╗     ███████╗ ██████╗██╗███████╗███╗   ██╗ ██████╗███████╗
-██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝██╔════╝██║██╔════╝████╗  ██║██╔════╝██╔════╝
-██║  ██║███████║   ██║   ███████║    ███████╗██║     ██║█████╗  ██╔██╗ ██║██║     █████╗  
-██║  ██║██╔══██║   ██║   ██╔══██║    ╚════██║██║     ██║██╔══╝  ██║╚██╗██║██║     ██╔══╝  
-██████╔╝██║  ██║   ██║   ██║  ██║    ███████║╚██████╗██║███████╗██║ ╚████║╚██████╗███████╗
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+██████╗  █████╗ ████████╗ █████╗      █████╗ ███╗   ██╗ █████╗ ██╗  ██╗   ██╗███████╗████████╗
+██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔══██╗████╗  ██║██╔══██╗██║  ╚██╗ ██╔╝██╔════╝╚══██╔══╝
+██║  ██║███████║   ██║   ███████║    ███████║██╔██╗ ██║███████║██║   ╚████╔╝ ███████╗   ██║   
+██║  ██║██╔══██║   ██║   ██╔══██║    ██╔══██║██║╚██╗██║██╔══██║██║    ╚██╔╝  ╚════██║   ██║   
+██████╔╝██║  ██║   ██║   ██║  ██║    ██║  ██║██║ ╚████║██║  ██║███████╗██║   ███████║   ██║   
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝   ╚══════╝   ╚═╝   
 ```
 
 </div>
 
 <div align="center">
-  <a href='[https://www.linkedin.com/in/Abdo-Eslam/](https://www.linkedin.com/in/abdo-eladawe/)'>
+  <a href='https://www.linkedin.com/in/Abdo-Eslam/'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href='https://github.com/Abdo-Eslam'>
@@ -22,7 +22,7 @@
 
 <br/>
 
-<img align="right" alt="Data Science GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="Data Analytics GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ## 👋 Hey, I'm Abdo Eslam!
 
@@ -44,8 +44,8 @@ I love working with **data, statistics, and visualization** 📈 — digging int
 - 👨🏻‍💻 &nbsp; All my projects are on [GitHub](https://github.com/Abdo-Eslam?tab=repositories)
 - 💬 &nbsp; Ask me about **Data Analysis, Python, or SQL** — I'm happy to help!
 - 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/Abdo-Eslam/)
-- 🎯 &nbsp; Goal: Transform raw data into **meaningful visualizations and intelligent models**
-- ⚡ &nbsp; Fun fact: I believe every dataset has a story — you just need the right tools to read it!
+- 🎯 &nbsp; Goal: Transform raw data into **meaningful visualizations and impactful decisions**
+- ⚡ &nbsp; Fun fact: I see patterns in everything... even in my coffee ☕📉
 
 ---
 
@@ -64,8 +64,16 @@ I love working with **data, statistics, and visualization** 📈 — digging int
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="42px"/>
   </a>
   &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="42px"/>
+  </a>
+  &nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="42px"/>
+  </a>
+  &nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" height="42px"/>
   </a>
   &nbsp;
   <a href="https://powerbi.microsoft.com/" target="_blank">
@@ -79,23 +87,7 @@ I love working with **data, statistics, and visualization** 📈 — digging int
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="42px"/>
   </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="42px"/>
-  </a>
-  &nbsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" height="42px"/>
-  </a>
 </p>
-
----
-
-## 🛠️ My Projects
-
-<a href="https://github.com/Abdo-Eslam/customer-shopping-behavior-analysis" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdo-Eslam&repo=customer-shopping-behavior-analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
 
 ---
 
@@ -112,20 +104,43 @@ I love working with **data, statistics, and visualization** 📈 — digging int
 
 ---
 
-## 🚀 My Data Science Journey
+## 🔍 Who Am I, Really?
 
 ```python
-abdo = {
-    "role"      : "Data Analyst 📊",
-    "passion"   : ["Data Analysis", "Data Visualization", "SQL"],
-    "tools"     : ["Python", "Pandas", "NumPy", "MySQL", "Excel", "Power BI"],
-    "currently" : "Customer Shopping Behavior Analysis 🔭",
-    "learning"  : ["Advanced SQL", "Statistical Analysis"],
-    "goal"      : "Transform data into impactful decisions 🎯",
-    "ask_me_about": ["Python", "SQL", "Data Analysis"],
-    "motto"     : "Every dataset tells a story — I help it speak! 🗣️"
-}
+class AbdoEslam:
+    
+    def __init__(self):
+        self.name        = "Abdo Eslam"
+        self.role        = "Data Analyst 📊"
+        self.location    = "Egypt 🇪🇬"
+        self.tools       = ["Python 🐍", "SQL 🗄️", "Excel 📗", "Power BI 📈"]
+        self.superpower  = "Turning messy data → clean insights ✨"
+        self.currently   = "Customer Shopping Behavior Analysis 🛒"
+        self.learning    = ["Advanced SQL", "Statistical Modeling", "ML basics"]
+
+    def ask_me_about(self):
+        return ["Data Analysis", "Python", "SQL", "Power BI"]
+
+    def fun_fact(self):
+        return "I see patterns in everything... even in my coffee ☕📉"
+
+    def life_motto(self):
+        return "In God we trust; all others must bring data. 📌"
+
+me = AbdoEslam()
+print(me.superpower)
+# OUTPUT: Turning messy data → clean insights ✨
 ```
+
+---
+
+## 🛠️ My Projects
+
+<a href="https://github.com/Abdo-Eslam/customer-shopping-behavior-analysis" target="_blank">
+  <img alt="shopping-analysis" src="./projects/shopping-analysis.svg" height="68" align="left">
+</a>
+
+<br/><br/><br/><br/>
 
 ---
 
