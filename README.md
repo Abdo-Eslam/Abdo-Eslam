@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <a href='https://www.linkedin.com/in/Abdo-Eslam/'>
+  <a href='https://www.linkedin.com/in/abdo-eladawe/'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href='https://github.com/Abdo-Eslam'>
