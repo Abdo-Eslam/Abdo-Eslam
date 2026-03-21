@@ -44,7 +44,7 @@ I love working with **data, statistics, and visualization** 📈 — digging int
 - 🌱 &nbsp; Currently diving deep into **Advanced Data Analysis & SQL**
 - 👨🏻‍💻 &nbsp; All my projects are on [GitHub](https://github.com/Abdo-Eslam?tab=repositories)
 - 💬 &nbsp; Ask me about **Data Analysis, Python, or SQL** — I'm happy to help!
-- 📫 &nbsp; Reach me on [LinkedIn]('https://www.linkedin.com/in/abdo-eladawe/')
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/abdo-eladawe/)
 - 🎯 &nbsp; Goal: Transform raw data into **meaningful visualizations and impactful decisions**
 - ⚡ &nbsp; Fun fact: I see patterns in everything... even in my coffee ☕📉
 
